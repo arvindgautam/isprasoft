@@ -1,0 +1,91 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://p4p.isprasoft.com
+Data file = /home1/isprasof/public_html/dev/p4p/wp-content/uploads/2018/07/dummy-data.xml
+Widget file = /home1/isprasof/public_html/dev/p4p/wp-content/uploads/2018/07/dummy-widgets.wie
+Customizer file = /home1/isprasof/public_html/dev/p4p/wp-content/uploads/2018/07/dummy-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Front Page Sidebar : 
+
+TG: About Widget - Himalayas Theme - Imported
+TG: Call To Action Widget - No Title - Imported
+TG: Service Widget - We offer  - Imported
+TG: Portfolio - PORTFOLIO - Imported
+TG: Featured Posts - BLOG - Imported
+TG: Call To Action Widget - No Title - Imported
+TG: Our Team Widget - OUR TEAM - Imported
+TG: Contact Us Widget - Contact Us - Imported
+
+Footer Sidebar One : 
+
+Text - No Title - Imported
+
+Footer Sidebar Two : 
+
+Navigation Menu - Layout - Imported
+
+Footer Sidebar Three : 
+
+Navigation Menu - Some Other Themes - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

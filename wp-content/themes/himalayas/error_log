@@ -1,0 +1,6 @@
+[04-Dec-2018 04:59:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home1/isprasof/public_html/wp-content/themes/himalayas/archive.php on line 10
+[04-Dec-2018 04:59:43 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home1/isprasof/public_html/wp-content/themes/himalayas/search.php on line 10
+[24-Sep-2019 18:40:36 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/isprasof/public_html/wp-content/themes/himalayas/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/isprasof/public_html/wp-content/themes/himalayas/index.php on line 10

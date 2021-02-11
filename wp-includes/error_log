@@ -1,0 +1,15 @@
+[20-Nov-2018 03:01:31 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home1/isprasof/public_html/wp-includes/template-loader.php on line 28
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/isprasof/public_html/wp-includes/class-IXR.php on line 42
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/isprasof/public_html/wp-includes/class-IXR.php on line 42
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home1/isprasof/public_html/wp-includes/class-IXR.php on line 42
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home1/isprasof/public_html/wp-includes/class-IXR.php on line 42
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/isprasof/public_html/wp-includes/class-http.php on line 11
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/isprasof/public_html/wp-includes/class-http.php on line 11
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home1/isprasof/public_html/wp-includes/class-http.php on line 11
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home1/isprasof/public_html/wp-includes/class-http.php on line 11
+[13-Mar-2019 10:48:17 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home1/isprasof/public_html/wp-includes/class-http.php on line 11
+[13-Mar-2019 10:48:18 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/isprasof/public_html/wp-includes/class-feed.php on line 9
+[24-Sep-2019 18:39:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/isprasof/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/isprasof/public_html/wp-includes/rss-functions.php on line 8

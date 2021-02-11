@@ -1,0 +1,1 @@
+[04-Dec-2018 04:59:33 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home1/isprasof/public_html/wp-content/themes/himalayas/inc/customizer.php on line 633

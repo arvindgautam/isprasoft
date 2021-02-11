@@ -1,0 +1,2 @@
+[05-Jan-2019 16:15:59 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home1/isprasof/public_html/wp-content/plugins/hello.php on line 59
+[31-Jan-2019 07:57:49 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home1/isprasof/public_html/wp-content/plugins/hello.php on line 59

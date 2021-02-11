@@ -1,0 +1,2 @@
+[16-Jan-2019 01:57:18 Etc/GMT] PHP Fatal error:  Interface 'Requests_Auth' not found in /home1/isprasof/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[16-Jan-2019 01:57:23 Etc/GMT] PHP Fatal error:  Interface 'Requests_Auth' not found in /home1/isprasof/public_html/wp-includes/Requests/Auth/Basic.php on line 18
